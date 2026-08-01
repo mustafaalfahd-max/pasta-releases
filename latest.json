@@ -1,19 +1,19 @@
 {
   "desktop": {
-    "version": "1.0.0",
-    "url": "https://github.com/mustafaalfahd-max/pasta-releases/releases/download/v1.0.0/pasta.Setup.1.0.0.exe",
-    "size": 84248452,
-    "sha256": "6e37dcb309bbd45653caa3437faee99e2918d43bd6e1957ea13d2848d78937c5",
-    "notes": "الإصدار الأول",
-    "file": "pasta.Setup.1.0.0.exe"
+    "version": "1.1.0",
+    "url": "https://github.com/mustafaalfahd-max/pasta-releases/releases/download/v1.1.0/pasta.Setup.1.1.0.exe",
+    "size": 84250593,
+    "sha256": "da57555d5c8160c288993fff0e0bc09bbce5ce12d9b88fe256ad23b6943b8510",
+    "notes": "ربط الكاشير برمز · فاتورة جديدة · طابعة شبكية",
+    "file": "pasta.Setup.1.1.0.exe"
   },
   "phone": {
     "version": "1.1.0",
-    "url": "https://github.com/mustafaalfahd-max/pasta-releases/releases/download/v1.0.0/pasta-caller-1.1.0.apk",
+    "url": "https://github.com/mustafaalfahd-max/pasta-releases/releases/download/v1.1.0/pasta-caller-1.1.0.apk",
     "size": 20874681,
     "sha256": "1b8b599300096f5c3c86bc4803884df71005df8c1948f85877ebc428d0d13760",
-    "notes": "الإصدار الأول",
+    "notes": "ربط الكاشير برمز · فاتورة جديدة · طابعة شبكية",
     "file": "pasta-caller-1.1.0.apk"
   },
-  "published": "2026-07-31T21:56:32.066Z"
+  "published": "2026-08-01T08:25:23.435Z"
 }
