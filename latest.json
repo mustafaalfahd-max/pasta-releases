@@ -1,19 +1,19 @@
 {
   "desktop": {
-    "version": "1.1.2",
-    "url": "https://github.com/mustafaalfahd-max/pasta-releases/releases/download/v1.1.2/pasta.Setup.1.1.2.exe",
-    "size": 84254301,
-    "sha256": "ffc924413fcfa7ae1df3649a3211e65319f9ed2e7289ce246e6d6336b90d69e4",
-    "notes": "إصلاح نافذة إضافة الأصناف · قسم التفعيل في الإعدادات · فحص تلقائي للتحديثات",
-    "file": "pasta.Setup.1.1.2.exe"
+    "version": "1.1.3",
+    "url": "https://github.com/mustafaalfahd-max/pasta-releases/releases/download/v1.1.3/pasta.Setup.1.1.3.exe",
+    "size": 84255329,
+    "sha256": "d18268a65ce6986e09a8aec2ab6ef4ac3b202d143a8e44745b3734e66aca2ed4",
+    "notes": "إصلاح جوهري: ذمة السائق لم تعد تُفقد صامتة عند تعدد الفواتير",
+    "file": "pasta.Setup.1.1.3.exe"
   },
   "phone": {
     "version": "1.1.0",
-    "url": "https://github.com/mustafaalfahd-max/pasta-releases/releases/download/v1.1.2/app-release.apk",
+    "url": "https://github.com/mustafaalfahd-max/pasta-releases/releases/download/v1.1.3/app-release.apk",
     "size": 20874681,
     "sha256": "1b8b599300096f5c3c86bc4803884df71005df8c1948f85877ebc428d0d13760",
-    "notes": "إصلاح نافذة إضافة الأصناف · قسم التفعيل في الإعدادات · فحص تلقائي للتحديثات",
+    "notes": "إصلاح جوهري: ذمة السائق لم تعد تُفقد صامتة عند تعدد الفواتير",
     "file": "app-release.apk"
   },
-  "published": "2026-08-01T15:21:12.723Z"
+  "published": "2026-08-02T10:00:53.155Z"
 }
