@@ -1,19 +1,27 @@
 {
   "desktop": {
-    "version": "1.1.4",
-    "url": "https://github.com/mustafaalfahd-max/pasta-releases/releases/download/v1.1.4/pasta.Setup.1.1.4.exe",
-    "size": 84256538,
-    "sha256": "b6529c765574b7c9012c95a80e3d21b17b606894dcea54c41bbf48ffd51a5838",
-    "notes": "تحريك بطاقة المتصل بالسحب مع حفظ موضعها",
-    "file": "pasta.Setup.1.1.4.exe"
+    "version": "1.2.0",
+    "url": "https://github.com/mustafaalfahd-max/pasta-releases/releases/download/v1.2.0/pasta.Setup.1.2.0.exe",
+    "size": 84493571,
+    "sha256": "7ed447c4cf102f77cf14ad5b2fd6b90eed7f16a3d83ce1302a191c85da4019c8",
+    "notes": "تطبيق السائق · QR على الفاتورة · إيصال بشبكة مؤطّرة · بطاقة متصل قابلة للتحريك",
+    "file": "pasta.Setup.1.2.0.exe"
   },
   "phone": {
     "version": "1.1.0",
-    "url": "https://github.com/mustafaalfahd-max/pasta-releases/releases/download/v1.1.4/app-release.apk",
+    "url": "https://github.com/mustafaalfahd-max/pasta-releases/releases/download/v1.2.0/app-release.apk",
     "size": 20874681,
     "sha256": "1b8b599300096f5c3c86bc4803884df71005df8c1948f85877ebc428d0d13760",
-    "notes": "تحريك بطاقة المتصل بالسحب مع حفظ موضعها",
+    "notes": "تطبيق السائق · QR على الفاتورة · إيصال بشبكة مؤطّرة · بطاقة متصل قابلة للتحريك",
     "file": "app-release.apk"
   },
-  "published": "2026-08-07T20:03:49.313Z"
+  "driver": {
+    "version": "1.0.0",
+    "url": "https://github.com/mustafaalfahd-max/pasta-releases/releases/download/v1.2.0/pasta-driver-1.0.0.apk",
+    "size": 31579482,
+    "sha256": "ff18fce76023c6cf50fcf9b6c243f4232db1555862216231a26d808a5006133b",
+    "notes": "تطبيق السائق · QR على الفاتورة · إيصال بشبكة مؤطّرة · بطاقة متصل قابلة للتحريك",
+    "file": "pasta-driver-1.0.0.apk"
+  },
+  "published": "2026-08-07T21:05:43.156Z"
 }
