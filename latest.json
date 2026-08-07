@@ -1,19 +1,19 @@
 {
   "desktop": {
-    "version": "1.1.3",
-    "url": "https://github.com/mustafaalfahd-max/pasta-releases/releases/download/v1.1.3/pasta.Setup.1.1.3.exe",
-    "size": 84255329,
-    "sha256": "d18268a65ce6986e09a8aec2ab6ef4ac3b202d143a8e44745b3734e66aca2ed4",
-    "notes": "إصلاح جوهري: ذمة السائق لم تعد تُفقد صامتة عند تعدد الفواتير",
-    "file": "pasta.Setup.1.1.3.exe"
+    "version": "1.1.4",
+    "url": "https://github.com/mustafaalfahd-max/pasta-releases/releases/download/v1.1.4/pasta.Setup.1.1.4.exe",
+    "size": 84256538,
+    "sha256": "b6529c765574b7c9012c95a80e3d21b17b606894dcea54c41bbf48ffd51a5838",
+    "notes": "تحريك بطاقة المتصل بالسحب مع حفظ موضعها",
+    "file": "pasta.Setup.1.1.4.exe"
   },
   "phone": {
     "version": "1.1.0",
-    "url": "https://github.com/mustafaalfahd-max/pasta-releases/releases/download/v1.1.3/app-release.apk",
+    "url": "https://github.com/mustafaalfahd-max/pasta-releases/releases/download/v1.1.4/app-release.apk",
     "size": 20874681,
     "sha256": "1b8b599300096f5c3c86bc4803884df71005df8c1948f85877ebc428d0d13760",
-    "notes": "إصلاح جوهري: ذمة السائق لم تعد تُفقد صامتة عند تعدد الفواتير",
+    "notes": "تحريك بطاقة المتصل بالسحب مع حفظ موضعها",
     "file": "app-release.apk"
   },
-  "published": "2026-08-02T10:00:53.155Z"
+  "published": "2026-08-07T20:03:49.313Z"
 }
