@@ -1,11 +1,11 @@
 {
   "desktop": {
-    "version": "1.2.1",
-    "url": "https://github.com/mustafaalfahd-max/pasta-releases/releases/download/v1.2.1/pasta.Setup.1.2.1.exe",
-    "size": 84493601,
-    "sha256": "b9c4e526e2f213ee7d3751aebe3dffa595269203fcba0dd25b785e9c42c0b143",
-    "notes": "إيصال بشبكة مؤطّرة وخط أكبر · شاشة بداية أطول",
-    "file": "pasta.Setup.1.2.1.exe"
+    "version": "1.2.2",
+    "url": "https://github.com/mustafaalfahd-max/pasta-releases/releases/download/v1.2.2/pasta.Setup.1.2.2.exe",
+    "size": 84495950,
+    "sha256": "bb12de3aee26ca4b7e4c49bf603a19612d619c53b68a6e16486b67aeb342db20",
+    "notes": "الدفع الإلكتروني في نقطة البيع + شاشة تقارير جديدة",
+    "file": "pasta.Setup.1.2.2.exe"
   },
   "phone": {
     "version": "1.1.0",
@@ -23,5 +23,5 @@
     "notes": "تطبيق السائق · QR على الفاتورة · إيصال بشبكة مؤطّرة · بطاقة متصل قابلة للتحريك",
     "file": "pasta-driver-1.0.0.apk"
   },
-  "published": "2026-08-07T21:11:42.291Z"
+  "published": "2026-08-08T10:42:25.022Z"
 }
