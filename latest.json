@@ -1,11 +1,20 @@
 {
   "desktop": {
-    "version": "1.2.3",
-    "url": "https://github.com/mustafaalfahd-max/pasta-releases/releases/download/v1.2.3/pasta.Setup.1.2.3.exe",
-    "size": 84500213,
-    "sha256": "46a545591b14962b83326cf5bf2e8149adf460d707dcd1377d94a85a1691fc7d",
-    "notes": "إصلاح حجب جدار الحماية الذي كان يمنع تطبيق الهاتف والسائق من الاتصال + إشعار ربط السائق",
-    "file": "pasta.Setup.1.2.3.exe"
+    "version": "1.2.4",
+    "url": "https://github.com/mustafaalfahd-max/pasta-releases/releases/download/v1.2.4/pasta.Setup.1.2.4.exe",
+    "size": 84505075,
+    "sha256": "311ade3a08ff83152c1d1fd7228d435e0f1efa9a59dc510cb6c166e65604844c",
+    "notes": "تحديثات بلا تنصيب: ٢.٢٥ م.ب بدل ٨٠ · وإصلاح حجب جدار الحماية للهاتف والسائق",
+    "file": "pasta.Setup.1.2.4.exe",
+    "asar": {
+      "version": "1.2.4",
+      "url": "https://github.com/mustafaalfahd-max/pasta-releases/releases/download/v1.2.4/pasta-app-1.2.4.asar.br",
+      "size": 2355539,
+      "sha256": "737498887bc5a1bbf159a177117756628b28f9c4bbf11132ddf9ed97a62e4bb3",
+      "rawSize": 22989056,
+      "rawSha256": "6dbdc75450bcfd2cf72b3baf652c0e7503abcd53f8d76608bbcabeb5a35911a1",
+      "electron": "33.4.11"
+    }
   },
   "phone": {
     "version": "1.1.0",
@@ -23,5 +32,5 @@
     "notes": "اكتشاف أسرع وأدقّ للخادم، إدخال العنوان مع المنفذ، ورسالة فشل تشرح السبب",
     "file": "pasta-driver-1.0.1.apk"
   },
-  "published": "2026-08-08T11:50:48.076Z"
+  "published": "2026-08-08T13:37:32.538Z"
 }
