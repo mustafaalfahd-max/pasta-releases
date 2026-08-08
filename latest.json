@@ -1,11 +1,11 @@
 {
   "desktop": {
-    "version": "1.2.2",
-    "url": "https://github.com/mustafaalfahd-max/pasta-releases/releases/download/v1.2.2/pasta.Setup.1.2.2.exe",
-    "size": 84495950,
-    "sha256": "bb12de3aee26ca4b7e4c49bf603a19612d619c53b68a6e16486b67aeb342db20",
-    "notes": "الدفع الإلكتروني في نقطة البيع + شاشة تقارير جديدة",
-    "file": "pasta.Setup.1.2.2.exe"
+    "version": "1.2.3",
+    "url": "https://github.com/mustafaalfahd-max/pasta-releases/releases/download/v1.2.3/pasta.Setup.1.2.3.exe",
+    "size": 84500213,
+    "sha256": "46a545591b14962b83326cf5bf2e8149adf460d707dcd1377d94a85a1691fc7d",
+    "notes": "إصلاح حجب جدار الحماية الذي كان يمنع تطبيق الهاتف والسائق من الاتصال + إشعار ربط السائق",
+    "file": "pasta.Setup.1.2.3.exe"
   },
   "phone": {
     "version": "1.1.0",
@@ -16,12 +16,12 @@
     "file": "app-release.apk"
   },
   "driver": {
-    "version": "1.0.0",
-    "url": "https://github.com/mustafaalfahd-max/pasta-releases/releases/download/v1.2.0/pasta-driver-1.0.0.apk",
-    "size": 31579482,
-    "sha256": "ff18fce76023c6cf50fcf9b6c243f4232db1555862216231a26d808a5006133b",
-    "notes": "تطبيق السائق · QR على الفاتورة · إيصال بشبكة مؤطّرة · بطاقة متصل قابلة للتحريك",
-    "file": "pasta-driver-1.0.0.apk"
+    "version": "1.0.1",
+    "url": "https://github.com/mustafaalfahd-max/pasta-releases/releases/download/v1.2.3/pasta-driver-1.0.1.apk",
+    "size": 31586098,
+    "sha256": "496ab94504d31bdc1b1b23fd907e3703a17026b38a5773af93f11934e6aa8326",
+    "notes": "اكتشاف أسرع وأدقّ للخادم، إدخال العنوان مع المنفذ، ورسالة فشل تشرح السبب",
+    "file": "pasta-driver-1.0.1.apk"
   },
-  "published": "2026-08-08T10:42:25.022Z"
+  "published": "2026-08-08T11:50:48.076Z"
 }
