@@ -1,18 +1,18 @@
 {
   "desktop": {
-    "version": "1.2.4",
-    "url": "https://github.com/mustafaalfahd-max/pasta-releases/releases/download/v1.2.4/pasta.Setup.1.2.4.exe",
-    "size": 84505075,
-    "sha256": "311ade3a08ff83152c1d1fd7228d435e0f1efa9a59dc510cb6c166e65604844c",
-    "notes": "تحديثات بلا تنصيب: ٢.٢٥ م.ب بدل ٨٠ · وإصلاح حجب جدار الحماية للهاتف والسائق",
-    "file": "pasta.Setup.1.2.4.exe",
+    "version": "1.2.5",
+    "url": "https://github.com/mustafaalfahd-max/pasta-releases/releases/download/v1.2.5/pasta.Setup.1.2.5.exe",
+    "size": 84506186,
+    "sha256": "53ed6c25f59f83106986228c77ac8c9ba0270031a9ca9553b439cd4c3d12ccc9",
+    "notes": "إصلاح حفظ خيار أجور التوصيل للسائق + بحث الزبائن يصل لكل القاعدة لا لأحدث ٥٠٠",
+    "file": "pasta.Setup.1.2.5.exe",
     "asar": {
-      "version": "1.2.4",
-      "url": "https://github.com/mustafaalfahd-max/pasta-releases/releases/download/v1.2.4/pasta-app-1.2.4.asar.br",
-      "size": 2355539,
-      "sha256": "737498887bc5a1bbf159a177117756628b28f9c4bbf11132ddf9ed97a62e4bb3",
-      "rawSize": 22989056,
-      "rawSha256": "6dbdc75450bcfd2cf72b3baf652c0e7503abcd53f8d76608bbcabeb5a35911a1",
+      "version": "1.2.5",
+      "url": "https://github.com/mustafaalfahd-max/pasta-releases/releases/download/v1.2.5/pasta-app-1.2.5.asar.br",
+      "size": 2355436,
+      "sha256": "903d2d76e0a51e2a7d8e14cc6f933668e180a78960bf779ac64b8d4ce58980e2",
+      "rawSize": 22992999,
+      "rawSha256": "a69910c572e57628594f4dd79506972f3d49ac4639e640a2270c5d7a48ec5b02",
       "electron": "33.4.11"
     }
   },
@@ -25,12 +25,12 @@
     "file": "app-release.apk"
   },
   "driver": {
-    "version": "1.0.2",
-    "url": "https://github.com/mustafaalfahd-max/pasta-releases/releases/download/v-driver-1.0.2/pasta-driver-1.0.2.apk",
-    "size": 31588087,
-    "sha256": "7de4cb38803a5b86ae40118a3e73f627f60d7f20b979cfb4250a40a4e0a235d5",
-    "notes": "هوامش سفلية تتجاوز أزرار الهاتف — لا تتعارض الأزرار مع شريط تنقّل النظام",
-    "file": "pasta-driver-1.0.2.apk"
+    "version": "1.0.3",
+    "url": "https://github.com/mustafaalfahd-max/pasta-releases/releases/download/v1.2.5/pasta-driver-1.0.3.apk",
+    "size": 31619392,
+    "sha256": "a152e7ca9318a23e13915e6be42779f05283229200484211f09472b05c508fd8",
+    "notes": "تفاصيل الطلب بنقرة، والاتصال بالزبون بضغطة على رقمه، وتحديث ذاتي للتطبيق",
+    "file": "pasta-driver-1.0.3.apk"
   },
-  "published": "2026-08-08T14:06:32.585Z"
+  "published": "2026-08-08T14:44:18.487Z"
 }
