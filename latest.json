@@ -25,12 +25,12 @@
     "file": "app-release.apk"
   },
   "driver": {
-    "version": "1.0.1",
-    "url": "https://github.com/mustafaalfahd-max/pasta-releases/releases/download/v1.2.3/pasta-driver-1.0.1.apk",
-    "size": 31586098,
-    "sha256": "496ab94504d31bdc1b1b23fd907e3703a17026b38a5773af93f11934e6aa8326",
-    "notes": "اكتشاف أسرع وأدقّ للخادم، إدخال العنوان مع المنفذ، ورسالة فشل تشرح السبب",
-    "file": "pasta-driver-1.0.1.apk"
+    "version": "1.0.2",
+    "url": "https://github.com/mustafaalfahd-max/pasta-releases/releases/download/v-driver-1.0.2/pasta-driver-1.0.2.apk",
+    "size": 31588087,
+    "sha256": "7de4cb38803a5b86ae40118a3e73f627f60d7f20b979cfb4250a40a4e0a235d5",
+    "notes": "هوامش سفلية تتجاوز أزرار الهاتف — لا تتعارض الأزرار مع شريط تنقّل النظام",
+    "file": "pasta-driver-1.0.2.apk"
   },
-  "published": "2026-08-08T13:37:32.538Z"
+  "published": "2026-08-08T14:06:32.585Z"
 }
