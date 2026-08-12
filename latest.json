@@ -1,18 +1,18 @@
 {
   "desktop": {
-    "version": "1.2.8",
-    "url": "https://github.com/mustafaalfahd-max/pasta-releases/releases/download/v1.2.8/pasta.Setup.1.2.8.exe",
-    "size": 84509845,
-    "sha256": "af1fb92baf899d31e16e2e1a5d5b3bc543fe2ad6337a1c1ec2a1bb4c26fbfab6",
-    "notes": "مرحِّل تحديثات الهاتف عبر الشبكة المحلية",
-    "file": "pasta.Setup.1.2.8.exe",
+    "version": "1.2.9",
+    "url": "https://github.com/mustafaalfahd-max/pasta-releases/releases/download/v1.2.9/pasta.Setup.1.2.9.exe",
+    "size": 84510413,
+    "sha256": "a769dcc9e7c786e2c3b66b36176ad559004da21acbf10f2af3470ad0c7def9b5",
+    "notes": "إصلاح تطبيق التحديث بصلاحيات المسؤول",
+    "file": "pasta.Setup.1.2.9.exe",
     "asar": {
-      "version": "1.2.8",
-      "url": "https://github.com/mustafaalfahd-max/pasta-releases/releases/download/v1.2.8/pasta-app-1.2.8.asar.br",
-      "size": 2359301,
-      "sha256": "5b22126c6dabf409b20ec834dfc50d8b00a38aaa139b01f8434c3f98b2a3864e",
-      "rawSize": 23012697,
-      "rawSha256": "3b4f30a4a7ebfc2a13f80faba597f0711e07db5403c81b5f4a505305cac48926",
+      "version": "1.2.9",
+      "url": "https://github.com/mustafaalfahd-max/pasta-releases/releases/download/v1.2.9/pasta-app-1.2.9.asar.br",
+      "size": 2361106,
+      "sha256": "95a52260f463e7ad7943536f8d04e296c05489853df993feb7dfee4ff2e3c0d6",
+      "rawSize": 23015940,
+      "rawSha256": "59f1f61f9bfc7cb8b8eb1ac8ffefa5deea8ce62732b361aff96e68cfe1b3d64b",
       "electron": "33.4.11"
     }
   },
@@ -32,5 +32,5 @@
     "notes": "تفاصيل الطلب بنقرة، والاتصال بالزبون بضغطة على رقمه، وتحديث ذاتي للتطبيق",
     "file": "pasta-driver-1.0.3.apk"
   },
-  "published": "2026-08-12T19:05:42.866Z"
+  "published": "2026-08-12T19:36:06.580Z"
 }
