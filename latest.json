@@ -17,12 +17,12 @@
     }
   },
   "phone": {
-    "version": "1.1.0",
-    "url": "https://github.com/mustafaalfahd-max/pasta-releases/releases/download/v1.2.0/app-release.apk",
-    "size": 20874681,
-    "sha256": "1b8b599300096f5c3c86bc4803884df71005df8c1948f85877ebc428d0d13760",
-    "notes": "تطبيق السائق · QR على الفاتورة · إيصال بشبكة مؤطّرة · بطاقة متصل قابلة للتحريك",
-    "file": "app-release.apk"
+    "version": "1.2.0",
+    "url": "https://github.com/mustafaalfahd-max/pasta-releases/releases/download/v1.2.7/pasta-caller-1.2.0.apk",
+    "size": 20882026,
+    "sha256": "aab7b029b4347a5d829b7903197a96f5702ee2060d89f46781c8fadeb391d2b4",
+    "notes": "التطبيق يعمل في الخلفية: خدمة دائمة + إقلاع تلقائي مع الهاتف + استثناء البطارية",
+    "file": "pasta-caller-1.2.0.apk"
   },
   "driver": {
     "version": "1.0.3",
@@ -32,5 +32,5 @@
     "notes": "تفاصيل الطلب بنقرة، والاتصال بالزبون بضغطة على رقمه، وتحديث ذاتي للتطبيق",
     "file": "pasta-driver-1.0.3.apk"
   },
-  "published": "2026-08-12T08:54:59.197Z"
+  "published": "2026-08-12T18:37:02.017Z"
 }
