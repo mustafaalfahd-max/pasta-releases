@@ -1,18 +1,18 @@
 {
   "desktop": {
-    "version": "1.2.7",
-    "url": "https://github.com/mustafaalfahd-max/pasta-releases/releases/download/v1.2.7/pasta.Setup.1.2.7.exe",
-    "size": 84508494,
-    "sha256": "caecf904792475539e10c5b722d433638ce6e83f96b746adf028b6369061dba6",
-    "notes": "دقة الأرقام: المجاميع تُحسب في القاعدة كاملة · إدارة طاولات الصالة · تحصينات التحديث",
-    "file": "pasta.Setup.1.2.7.exe",
+    "version": "1.2.8",
+    "url": "https://github.com/mustafaalfahd-max/pasta-releases/releases/download/v1.2.8/pasta.Setup.1.2.8.exe",
+    "size": 84509845,
+    "sha256": "af1fb92baf899d31e16e2e1a5d5b3bc543fe2ad6337a1c1ec2a1bb4c26fbfab6",
+    "notes": "مرحِّل تحديثات الهاتف عبر الشبكة المحلية",
+    "file": "pasta.Setup.1.2.8.exe",
     "asar": {
-      "version": "1.2.7",
-      "url": "https://github.com/mustafaalfahd-max/pasta-releases/releases/download/v1.2.7/pasta-app-1.2.7.asar.br",
-      "size": 2357690,
-      "sha256": "fc0b8fd2290cbec752a1933ed998474bde8622462209ef6fb09b69c36bda5796",
-      "rawSize": 23006788,
-      "rawSha256": "d313e7acb67b60158fee01a44ad1a066b8ddaa8d7c1ebacbcc752a322d8377c4",
+      "version": "1.2.8",
+      "url": "https://github.com/mustafaalfahd-max/pasta-releases/releases/download/v1.2.8/pasta-app-1.2.8.asar.br",
+      "size": 2359301,
+      "sha256": "5b22126c6dabf409b20ec834dfc50d8b00a38aaa139b01f8434c3f98b2a3864e",
+      "rawSize": 23012697,
+      "rawSha256": "3b4f30a4a7ebfc2a13f80faba597f0711e07db5403c81b5f4a505305cac48926",
       "electron": "33.4.11"
     }
   },
@@ -32,5 +32,5 @@
     "notes": "تفاصيل الطلب بنقرة، والاتصال بالزبون بضغطة على رقمه، وتحديث ذاتي للتطبيق",
     "file": "pasta-driver-1.0.3.apk"
   },
-  "published": "2026-08-12T18:37:02.017Z"
+  "published": "2026-08-12T19:05:42.866Z"
 }
