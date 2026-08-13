@@ -1,28 +1,28 @@
 {
   "desktop": {
-    "version": "1.2.9",
-    "url": "https://github.com/mustafaalfahd-max/pasta-releases/releases/download/v1.2.9/pasta.Setup.1.2.9.exe",
-    "size": 84510413,
-    "sha256": "a769dcc9e7c786e2c3b66b36176ad559004da21acbf10f2af3470ad0c7def9b5",
-    "notes": "إصلاح تطبيق التحديث بصلاحيات المسؤول",
-    "file": "pasta.Setup.1.2.9.exe",
+    "version": "1.3.0",
+    "url": "https://github.com/mustafaalfahd-max/pasta-releases/releases/download/v1.3.0/pasta.Setup.1.3.0.exe",
+    "size": 84507666,
+    "sha256": "beba4c8f185f77ca8428cdebdc751eec8d5f8a67abbbd97bc6fafc41b0ba29a1",
+    "notes": "الربط بالباركود مع تطبيق الهاتف",
+    "file": "pasta.Setup.1.3.0.exe",
     "asar": {
-      "version": "1.2.9",
-      "url": "https://github.com/mustafaalfahd-max/pasta-releases/releases/download/v1.2.9/pasta-app-1.2.9.asar.br",
-      "size": 2361106,
-      "sha256": "95a52260f463e7ad7943536f8d04e296c05489853df993feb7dfee4ff2e3c0d6",
-      "rawSize": 23015940,
-      "rawSha256": "59f1f61f9bfc7cb8b8eb1ac8ffefa5deea8ce62732b361aff96e68cfe1b3d64b",
+      "version": "1.3.0",
+      "url": "https://github.com/mustafaalfahd-max/pasta-releases/releases/download/v1.3.0/pasta-app-1.3.0.asar.br",
+      "size": 2358142,
+      "sha256": "2d3dc762a64ebffebce9154009fa4b8cd43df1697e77848d498705c784b615cf",
+      "rawSize": 23000362,
+      "rawSha256": "fb00377101fd542e1d6ec5bbf5f4d290bc1edca7c248af3595893d2ede2dbad2",
       "electron": "33.4.11"
     }
   },
   "phone": {
-    "version": "1.2.0",
-    "url": "https://github.com/mustafaalfahd-max/pasta-releases/releases/download/v1.2.7/pasta-caller-1.2.0.apk",
-    "size": 20882026,
-    "sha256": "aab7b029b4347a5d829b7903197a96f5702ee2060d89f46781c8fadeb391d2b4",
-    "notes": "التطبيق يعمل في الخلفية: خدمة دائمة + إقلاع تلقائي مع الهاتف + استثناء البطارية",
-    "file": "pasta-caller-1.2.0.apk"
+    "version": "1.3.0",
+    "url": "https://github.com/mustafaalfahd-max/pasta-releases/releases/download/v1.3.0/pasta-caller-1.3.0.apk",
+    "size": 30626186,
+    "sha256": "ce4be6238ce46319f75a7007ecac0a4d0bcbb210dc4b3ccdeeb5fb22e58c6e62",
+    "notes": "الربط بالباركود: امسح الرمز من شاشة الحاسوب بدل كتابة العنوان والرمز",
+    "file": "pasta-caller-1.3.0.apk"
   },
   "driver": {
     "version": "1.0.3",
@@ -32,5 +32,5 @@
     "notes": "تفاصيل الطلب بنقرة، والاتصال بالزبون بضغطة على رقمه، وتحديث ذاتي للتطبيق",
     "file": "pasta-driver-1.0.3.apk"
   },
-  "published": "2026-08-12T19:36:06.580Z"
+  "published": "2026-08-13T07:35:44.043Z"
 }
