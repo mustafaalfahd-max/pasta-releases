@@ -1,18 +1,18 @@
 {
   "desktop": {
-    "version": "1.3.3",
-    "url": "https://github.com/mustafaalfahd-max/pasta-releases/releases/download/v1.3.3/pasta.Setup.1.3.3.exe",
-    "size": 84509157,
-    "sha256": "1b90c0b1a6676902263bd589174496e0c1258c9ab8ea06e9cef2ae4ae52bd01e",
-    "notes": "تنظيف يجد القاعدة أينما كانت · شاشة اتصال تعرف الخادم",
-    "file": "pasta.Setup.1.3.3.exe",
+    "version": "1.3.4",
+    "url": "https://github.com/mustafaalfahd-max/pasta-releases/releases/download/v1.3.4/pasta.Setup.1.3.4.exe",
+    "size": 84511165,
+    "sha256": "7cbac8c2b1daa761ba2829efdaac42de6f991e256aec85927ca863189b31821d",
+    "notes": "طباعة تلقائية للإيصال عند حفظ الطلب، وخط أكبر، والتقاط الإيصال الطويل كاملاً",
+    "file": "pasta.Setup.1.3.4.exe",
     "asar": {
-      "version": "1.3.3",
-      "url": "https://github.com/mustafaalfahd-max/pasta-releases/releases/download/v1.3.3/pasta-app-1.3.3.asar.br",
-      "size": 2359217,
-      "sha256": "dc67fe72f85af21e033bfb1db6cc0b757e78710787281a082c89fd9ab996bec4",
-      "rawSize": 23008031,
-      "rawSha256": "515842d7726188ebde618d0d95754faf451dae1bc65a2acd546e59c1edb53c7e",
+      "version": "1.3.4",
+      "url": "https://github.com/mustafaalfahd-max/pasta-releases/releases/download/v1.3.4/pasta-app-1.3.4.asar.br",
+      "size": 2361538,
+      "sha256": "2ba3f86b99468a0bdd2f290a4ff568130899d22cf9d3fa4781573931935fa63c",
+      "rawSize": 23015816,
+      "rawSha256": "e40c9b24cedda332a9364cccbc29cd2c53f04c626f84408ff21542ece589f3d9",
       "electron": "33.4.11"
     }
   },
@@ -32,5 +32,5 @@
     "notes": "تبسيط التحديث: يفتح الرابط في المتصفح فينزّل ويثبّت النظام",
     "file": "pasta-driver-1.1.0.apk"
   },
-  "published": "2026-08-13T14:33:19.386Z"
+  "published": "2026-08-14T14:02:53.754Z"
 }
