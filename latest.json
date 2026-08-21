@@ -1,18 +1,18 @@
 {
   "desktop": {
-    "version": "1.3.7",
-    "url": "https://github.com/mustafaalfahd-max/pasta-releases/releases/download/v1.3.7/pasta.Setup.1.3.7.exe",
-    "size": 84513947,
-    "sha256": "30a25a81ac6ae5d78de1e945ff66a8dfffc194e1294cce0b2e24505f8b16c720",
-    "notes": "طباعة تلقائية · فاتورة أوضح · إصلاح زرّ التأكيد",
-    "file": "pasta.Setup.1.3.7.exe",
+    "version": "1.3.8",
+    "url": "https://github.com/mustafaalfahd-max/pasta-releases/releases/download/v1.3.8/pasta.Setup.1.3.8.exe",
+    "size": 84517663,
+    "sha256": "40141f65155f4804adf7f6cb8903adc9bcbfb1d977e3635b012e9e052ef5741b",
+    "notes": "ورقة فحص الطابعة · سجلّ طباعة أوضح",
+    "file": "pasta.Setup.1.3.8.exe",
     "asar": {
-      "version": "1.3.7",
-      "url": "https://github.com/mustafaalfahd-max/pasta-releases/releases/download/v1.3.7/pasta-app-1.3.7.asar.br",
-      "size": 2363742,
-      "sha256": "8adc68a28730c902dc13a830b6d7db9a191be72cea9c56fe474346404d332617",
-      "rawSize": 23029532,
-      "rawSha256": "5f153eedb8e1f694a138cb8e07ceb639251aec4c1800b0b679bc501a9736db1c",
+      "version": "1.3.8",
+      "url": "https://github.com/mustafaalfahd-max/pasta-releases/releases/download/v1.3.8/pasta-app-1.3.8.asar.br",
+      "size": 2367829,
+      "sha256": "620d6f8ea1ea34178c39e8bebb0d4a7c2b22f956ae2f347f264ce6478618e1f2",
+      "rawSize": 23046159,
+      "rawSha256": "aced2147bbcdc00386c0e96c380c00b6770db4d018a34af4f42d48d6520300cd",
       "electron": "33.4.11"
     }
   },
@@ -32,5 +32,5 @@
     "notes": "تبسيط التحديث: يفتح الرابط في المتصفح فينزّل ويثبّت النظام",
     "file": "pasta-driver-1.1.0.apk"
   },
-  "published": "2026-08-20T19:04:19.917Z"
+  "published": "2026-08-21T09:14:04.548Z"
 }
