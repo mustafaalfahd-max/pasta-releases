@@ -1,18 +1,18 @@
 {
   "desktop": {
-    "version": "1.3.8",
-    "url": "https://github.com/mustafaalfahd-max/pasta-releases/releases/download/v1.3.8/pasta.Setup.1.3.8.exe",
-    "size": 84517663,
-    "sha256": "40141f65155f4804adf7f6cb8903adc9bcbfb1d977e3635b012e9e052ef5741b",
-    "notes": "ورقة فحص الطابعة · سجلّ طباعة أوضح",
-    "file": "pasta.Setup.1.3.8.exe",
+    "version": "1.3.9",
+    "url": "https://github.com/mustafaalfahd-max/pasta-releases/releases/download/v1.3.9/pasta.Setup.1.3.9.exe",
+    "size": 84517641,
+    "sha256": "80891d36f910fcc4ab9bc96bbd1d827a792aa6041ce8c0fda1cb225230c1683e",
+    "notes": "إصلاح تعليق شاشة البداية",
+    "file": "pasta.Setup.1.3.9.exe",
     "asar": {
-      "version": "1.3.8",
-      "url": "https://github.com/mustafaalfahd-max/pasta-releases/releases/download/v1.3.8/pasta-app-1.3.8.asar.br",
-      "size": 2367829,
-      "sha256": "620d6f8ea1ea34178c39e8bebb0d4a7c2b22f956ae2f347f264ce6478618e1f2",
-      "rawSize": 23046159,
-      "rawSha256": "aced2147bbcdc00386c0e96c380c00b6770db4d018a34af4f42d48d6520300cd",
+      "version": "1.3.9",
+      "url": "https://github.com/mustafaalfahd-max/pasta-releases/releases/download/v1.3.9/pasta-app-1.3.9.asar.br",
+      "size": 2367425,
+      "sha256": "d8069590d9803bad06e9e77bce30c3984584dbc1f0060368a5129a2d59161d9b",
+      "rawSize": 23046494,
+      "rawSha256": "d7c346ac21ca7a3801965e51261881377efb3001bf9a9e358ba4563cf80dfd61",
       "electron": "33.4.11"
     }
   },
@@ -32,5 +32,5 @@
     "notes": "تبسيط التحديث: يفتح الرابط في المتصفح فينزّل ويثبّت النظام",
     "file": "pasta-driver-1.1.0.apk"
   },
-  "published": "2026-08-21T09:14:04.548Z"
+  "published": "2026-08-21T09:58:41.331Z"
 }
