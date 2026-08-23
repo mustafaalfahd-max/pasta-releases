@@ -1,18 +1,18 @@
 {
   "desktop": {
-    "version": "1.3.13",
-    "url": "https://github.com/mustafaalfahd-max/pasta-releases/releases/download/v1.3.13/pasta.Setup.1.3.13.exe",
-    "size": 84519593,
-    "sha256": "0dcc322ce19ebd79cb0cea499145722365da551f9210fa9e6f073ec23804ec30",
-    "notes": "اكتشاف تلقائي للحاسوب",
-    "file": "pasta.Setup.1.3.13.exe",
+    "version": "1.3.14",
+    "url": "https://github.com/mustafaalfahd-max/pasta-releases/releases/download/v1.3.14/pasta.Setup.1.3.14.exe",
+    "size": 84520487,
+    "sha256": "2d338e2a0876b6f7d89053ea19826a8b3d9e143de06c0239ca6e08d83d7dbc4d",
+    "notes": "سلّة بعمودين · إيصال أقصر بخط كايرو · شاشة بداية محدّثة",
+    "file": "pasta.Setup.1.3.14.exe",
     "asar": {
-      "version": "1.3.13",
-      "url": "https://github.com/mustafaalfahd-max/pasta-releases/releases/download/v1.3.13/pasta-app-1.3.13.asar.br",
-      "size": 2369505,
-      "sha256": "7bdb8b3285df936f3dcb5c997b937e15ed94be11a6b6985a133a9abf40bd67b3",
-      "rawSize": 23054480,
-      "rawSha256": "2f00c4ccb4cb8bed54cdd34c4f12bb1c7de4ca300297f26acb346e9ee470a9eb",
+      "version": "1.3.14",
+      "url": "https://github.com/mustafaalfahd-max/pasta-releases/releases/download/v1.3.14/pasta-app-1.3.14.asar.br",
+      "size": 2370582,
+      "sha256": "3e69f3491d0b8ba3fcbc1809c57d10f247ed0a603143d790ef90031aca0a0dcb",
+      "rawSize": 23057794,
+      "rawSha256": "8f7e861e2a4baf0123700ba4e5d7ecc034e975613a4acba921199dc76827f0c5",
       "electron": "33.4.11"
     }
   },
@@ -32,5 +32,5 @@
     "notes": "تبسيط التحديث: يفتح الرابط في المتصفح فينزّل ويثبّت النظام",
     "file": "pasta-driver-1.1.0.apk"
   },
-  "published": "2026-08-22T12:30:59.361Z"
+  "published": "2026-08-23T15:58:23.885Z"
 }
