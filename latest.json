@@ -1,18 +1,18 @@
 {
   "desktop": {
-    "version": "1.3.17",
-    "url": "https://github.com/mustafaalfahd-max/pasta-releases/releases/download/v1.3.17/pasta.Setup.1.3.17.exe",
-    "size": 84523946,
-    "sha256": "377e2005b2662e23a02ff6ac8611f43a9b61acc2f0c359324786437c4a206146",
-    "notes": "فحص جدار الحماية بالأثر لا بالاسم وقاعدة برنامج",
-    "file": "pasta.Setup.1.3.17.exe",
+    "version": "1.3.18",
+    "url": "https://github.com/mustafaalfahd-max/pasta-releases/releases/download/v1.3.18/pasta.Setup.1.3.18.exe",
+    "size": 84524639,
+    "sha256": "9c4c8369808a4ebe588ec59fc56bf7fbf31c0068c92f655d94550fa38baccc6d",
+    "notes": "تصحيح صافي النقد مع أجور السائق · ختم الطلبات الصفرية · صمّامات حماية",
+    "file": "pasta.Setup.1.3.18.exe",
     "asar": {
-      "version": "1.3.17",
-      "url": "https://github.com/mustafaalfahd-max/pasta-releases/releases/download/v1.3.17/pasta-app-1.3.17.asar.br",
-      "size": 2373894,
-      "sha256": "ed94d94a24fabd0d5037302a92f08d20f1bfd025d123d7e19b6fb1fe663ec6b1",
-      "rawSize": 23071782,
-      "rawSha256": "a1660fd8c9a44c255e36818f15544836405eef9def81f5cb6deed325680bc404",
+      "version": "1.3.18",
+      "url": "https://github.com/mustafaalfahd-max/pasta-releases/releases/download/v1.3.18/pasta-app-1.3.18.asar.br",
+      "size": 2373999,
+      "sha256": "1622f630f5398c054fc9f7092581b0a8ed8c37d7f5eb38c27b5e422f095aa1c8",
+      "rawSize": 23075520,
+      "rawSha256": "c2c82e29774410680ed489b5d3561f84c90dcfa41c1fb37a08c503092c14486d",
       "electron": "33.4.11"
     }
   },
@@ -32,5 +32,5 @@
     "notes": "الربط بمسح الباركود · زرّ «تم التسليم»: المُسلَّم يهبط أسفل القائمة",
     "file": "pasta-driver-1.2.0.apk"
   },
-  "published": "2026-08-23T19:13:34.559Z"
+  "published": "2026-08-24T08:23:22.679Z"
 }
