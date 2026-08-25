@@ -17,12 +17,12 @@
     }
   },
   "phone": {
-    "version": "1.4.0",
-    "url": "https://github.com/mustafaalfahd-max/pasta-releases/releases/download/v1.3.13/pasta-caller-1.4.0.apk",
-    "size": 30628630,
-    "sha256": "956522e8ba0ae297d96ebe702fd24c13170cdf9de41eb04f3c6b75090f3987c1",
-    "notes": "اكتشاف تلقائي للحاسوب",
-    "file": "pasta-caller-1.4.0.apk"
+    "version": "1.4.1",
+    "url": "https://github.com/mustafaalfahd-max/pasta-releases/releases/download/v1.3.18/pasta-caller-1.4.1.apk",
+    "size": 30635148,
+    "sha256": "39a574e007fccc31203896e4e7ae8a793b551150561f0b25c45f7c1c8759294d",
+    "notes": "إصلاح الأذونات: كشف الحجب الدائم وفتح الإعدادات · بطاقة التشغيل التلقائي لهواتف شاومي/ريلمي/أوبو/فيفو · منع سحب الأذونات التلقائي · تنبيه فوري حين يُحجب رقم المتصل",
+    "file": "pasta-caller-1.4.1.apk"
   },
   "driver": {
     "version": "1.2.0",
@@ -32,5 +32,5 @@
     "notes": "الربط بمسح الباركود · زرّ «تم التسليم»: المُسلَّم يهبط أسفل القائمة",
     "file": "pasta-driver-1.2.0.apk"
   },
-  "published": "2026-08-24T08:23:22.679Z"
+  "published": "2026-08-25T15:29:50.972Z"
 }
