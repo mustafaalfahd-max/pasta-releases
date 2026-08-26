@@ -1,18 +1,18 @@
 {
   "desktop": {
-    "version": "1.3.20",
-    "url": "https://github.com/mustafaalfahd-max/pasta-releases/releases/download/v1.3.20/pasta.Setup.1.3.20.exe",
-    "size": 84526116,
-    "sha256": "ba1596b4afffb60388c0cf916f6beceedfca2964fb1d4447c3b7719a4e44a298",
-    "notes": "حقل الملاحظات أسفل السلة",
-    "file": "pasta.Setup.1.3.20.exe",
+    "version": "1.3.21",
+    "url": "https://github.com/mustafaalfahd-max/pasta-releases/releases/download/v1.3.21/pasta.Setup.1.3.21.exe",
+    "size": 84526967,
+    "sha256": "ff8180a398ec6e816f2b678cd96bff2a964a4c75b68657932f5c020f7923ebaa",
+    "notes": "علاج تعليق الكتابة · طباعة حادّة · ترتيب فاتورة جديد",
+    "file": "pasta.Setup.1.3.21.exe",
     "asar": {
-      "version": "1.3.20",
-      "url": "https://github.com/mustafaalfahd-max/pasta-releases/releases/download/v1.3.20/pasta-app-1.3.20.asar.br",
-      "size": 2376234,
-      "sha256": "379a717c54d6b4e5f06c9585b0243ac4f011312721f53a905def8b13214eb054",
-      "rawSize": 23085097,
-      "rawSha256": "64a31fa2ae55d13afd79d849f2403eb07bbfea5daa5cd3fee65d5581fe1b26d6",
+      "version": "1.3.21",
+      "url": "https://github.com/mustafaalfahd-max/pasta-releases/releases/download/v1.3.21/pasta-app-1.3.21.asar.br",
+      "size": 2376812,
+      "sha256": "78fca1b099e51c9c9ce18186741258bfd1416da4ff3c3758fbae0e4b08ebbda2",
+      "rawSize": 23087454,
+      "rawSha256": "5205884e85781bf04209b82cf51a6175fc650dcbf7a50827d1b271d638a1d1b4",
       "electron": "33.4.11"
     }
   },
@@ -32,5 +32,5 @@
     "notes": "الربط بمسح الباركود · زرّ «تم التسليم»: المُسلَّم يهبط أسفل القائمة",
     "file": "pasta-driver-1.2.0.apk"
   },
-  "published": "2026-08-26T10:01:05.632Z"
+  "published": "2026-08-26T17:17:38.674Z"
 }
