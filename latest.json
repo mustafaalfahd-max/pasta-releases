@@ -1,18 +1,18 @@
 {
   "desktop": {
-    "version": "1.3.26",
-    "url": "https://github.com/mustafaalfahd-max/pasta-releases/releases/download/v1.3.26/pasta.Setup.1.3.26.exe",
-    "size": 84531030,
-    "sha256": "f9bde20ccd58bb2bd7c6a2c325ed817a7fb38c7ceb7427d96a784cf26ce0dd1d",
-    "notes": "حدّة الطباعة بالتجميع الفوقي 2×",
-    "file": "pasta.Setup.1.3.26.exe",
+    "version": "1.4.0",
+    "url": "https://github.com/mustafaalfahd-max/pasta-releases/releases/download/v1.4.0/pasta.Setup.1.4.0.exe",
+    "size": 84537773,
+    "sha256": "f5f0a35619cabc6203ff0773dee71c0f13f35c8291a9afd9b7338d661919a595",
+    "notes": "1.4.0 — إعادة اتصال تلقائية لتطبيق السائق · فاتورة شراء مستقلة مع بحث وتعديل وحذف وفلترة بين تاريخين · فلترة التقارير حسب المستخدم · نقطة بيع ريسبونسف · «تم التوصيل» يسوّي ذمّة السائق تلقائياً · إعادة ضبط جدار الحماية عند كل رمز · سندات ببحث وتعديل وحذف · إصلاح البحث بالعربية على الكلمات التي فيها «ت»",
+    "file": "pasta.Setup.1.4.0.exe",
     "asar": {
-      "version": "1.3.26",
-      "url": "https://github.com/mustafaalfahd-max/pasta-releases/releases/download/v1.3.26/pasta-app-1.3.26.asar.br",
-      "size": 2381144,
-      "sha256": "6c0b08b46831c82f03d556395d9178a438f372a70616b32ddf1bfe5b5efb7b2e",
-      "rawSize": 23106326,
-      "rawSha256": "dda138534860a2fc7d93cae555651f635c7a19b9f2dd9fff8263cb960a480dd7",
+      "version": "1.4.0",
+      "url": "https://github.com/mustafaalfahd-max/pasta-releases/releases/download/v1.4.0/pasta-app-1.4.0.asar.br",
+      "size": 2387757,
+      "sha256": "69d479d8b4628c0c2e016f21fa47b0bfd060abe708b4e02139bd0b196f89e16e",
+      "rawSize": 23149555,
+      "rawSha256": "76300d9bb9950b0eb4be17eae5d8fe3534038ca8608fe680e99bf30120d01dcb",
       "electron": "33.4.11"
     }
   },
@@ -25,12 +25,12 @@
     "file": "pasta-caller-1.4.1.apk"
   },
   "driver": {
-    "version": "1.2.0",
-    "url": "https://github.com/mustafaalfahd-max/pasta-releases/releases/download/v1.3.15/pasta-driver-1.2.0.apk",
-    "size": 31639325,
-    "sha256": "dc1265d84eaeb84333299e67cdb2200a751fae06e8652eee43c0d2252db72c9f",
-    "notes": "الربط بمسح الباركود · زرّ «تم التسليم»: المُسلَّم يهبط أسفل القائمة",
-    "file": "pasta-driver-1.2.0.apk"
+    "version": "1.3.0",
+    "url": "https://github.com/mustafaalfahd-max/pasta-releases/releases/download/v1.4.0/pasta-driver-1.3.0.apk",
+    "size": 31650689,
+    "sha256": "43318d7da090d3600819884d5876ac9a243876445b893ed335bae02e6d52f8a9",
+    "notes": "1.3.0 — يعود للاتصال وحده عند رجوعك إلى المطعم، ومعه زرّ إعادة الاتصال",
+    "file": "pasta-driver-1.3.0.apk"
   },
-  "published": "2026-08-27T12:48:16.386Z"
+  "published": "2026-08-27T22:23:11.971Z"
 }
