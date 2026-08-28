@@ -17,20 +17,20 @@
     }
   },
   "phone": {
-    "version": "1.4.1",
-    "url": "https://github.com/mustafaalfahd-max/pasta-releases/releases/download/v1.3.18/pasta-caller-1.4.1.apk",
-    "size": 30635148,
-    "sha256": "39a574e007fccc31203896e4e7ae8a793b551150561f0b25c45f7c1c8759294d",
-    "notes": "إصلاح الأذونات: كشف الحجب الدائم وفتح الإعدادات · بطاقة التشغيل التلقائي لهواتف شاومي/ريلمي/أوبو/فيفو · منع سحب الأذونات التلقائي · تنبيه فوري حين يُحجب رقم المتصل",
-    "file": "pasta-caller-1.4.1.apk"
+    "version": "1.4.2",
+    "file": "pasta-caller-1.4.2.apk",
+    "url": "https://github.com/mustafaalfahd-max/pasta-releases/releases/download/apps-2026-08-28/pasta-caller-1.4.2.apk",
+    "size": 30683672,
+    "sha256": "8f310496171f674e4d187432ac3b777f124a3a009f4f4db5c7f0749adff19cf9",
+    "notes": "شاشة تشخيص: تكشف سبب توقّف بطاقة المتصل وترسل التقرير عبر واتساب."
   },
   "driver": {
-    "version": "1.3.0",
-    "url": "https://github.com/mustafaalfahd-max/pasta-releases/releases/download/v1.4.0/pasta-driver-1.3.0.apk",
-    "size": 31650689,
-    "sha256": "43318d7da090d3600819884d5876ac9a243876445b893ed335bae02e6d52f8a9",
-    "notes": "1.3.0 — يعود للاتصال وحده عند رجوعك إلى المطعم، ومعه زرّ إعادة الاتصال",
-    "file": "pasta-driver-1.3.0.apk"
+    "version": "1.3.1",
+    "file": "pasta-driver-1.3.1.apk",
+    "url": "https://github.com/mustafaalfahd-max/pasta-releases/releases/download/apps-2026-08-28/pasta-driver-1.3.1.apk",
+    "size": 31685551,
+    "sha256": "54edd9b8b3378297761b963702f5cf48f050b2f922a8d148a070796d29820600",
+    "notes": "إعادة اتصال تلقائية عند العودة للمطعم + شاشة تشخيص وإرسال التقرير عبر واتساب."
   },
   "published": "2026-08-27T22:23:11.971Z"
 }
