@@ -1,18 +1,18 @@
 {
   "desktop": {
-    "version": "1.4.0",
-    "url": "https://github.com/mustafaalfahd-max/pasta-releases/releases/download/v1.4.0/pasta.Setup.1.4.0.exe",
-    "size": 84537773,
-    "sha256": "f5f0a35619cabc6203ff0773dee71c0f13f35c8291a9afd9b7338d661919a595",
-    "notes": "1.4.0 — إعادة اتصال تلقائية لتطبيق السائق · فاتورة شراء مستقلة مع بحث وتعديل وحذف وفلترة بين تاريخين · فلترة التقارير حسب المستخدم · نقطة بيع ريسبونسف · «تم التوصيل» يسوّي ذمّة السائق تلقائياً · إعادة ضبط جدار الحماية عند كل رمز · سندات ببحث وتعديل وحذف · إصلاح البحث بالعربية على الكلمات التي فيها «ت»",
-    "file": "pasta.Setup.1.4.0.exe",
+    "version": "1.4.1",
+    "url": "https://github.com/mustafaalfahd-max/pasta-releases/releases/download/v1.4.1/pasta.Setup.1.4.1.exe",
+    "size": 84539239,
+    "sha256": "5f00c2614feb1217c8b1384499f1c31e62b53c34526271786bce17fc6a572679",
+    "notes": "كشف حساب المصاريف · فلترة التقارير بالساعة · التحكّم بحجم بطاقات نقطة البيع",
+    "file": "pasta.Setup.1.4.1.exe",
     "asar": {
-      "version": "1.4.0",
-      "url": "https://github.com/mustafaalfahd-max/pasta-releases/releases/download/v1.4.0/pasta-app-1.4.0.asar.br",
-      "size": 2387757,
-      "sha256": "69d479d8b4628c0c2e016f21fa47b0bfd060abe708b4e02139bd0b196f89e16e",
-      "rawSize": 23149555,
-      "rawSha256": "76300d9bb9950b0eb4be17eae5d8fe3534038ca8608fe680e99bf30120d01dcb",
+      "version": "1.4.1",
+      "url": "https://github.com/mustafaalfahd-max/pasta-releases/releases/download/v1.4.1/pasta-app-1.4.1.asar.br",
+      "size": 2388662,
+      "sha256": "03d6c48aabc2d33349f315b295f0e03a4c8800f9c44ea2137fdb10ce355adadf",
+      "rawSize": 23155852,
+      "rawSha256": "3e26c7cfcfac545718d6fd2d883e20c0a1ed9cdfe85048a8fef6d9283261d499",
       "electron": "33.4.11"
     }
   },
@@ -32,5 +32,5 @@
     "sha256": "54edd9b8b3378297761b963702f5cf48f050b2f922a8d148a070796d29820600",
     "notes": "إعادة اتصال تلقائية عند العودة للمطعم + شاشة تشخيص وإرسال التقرير عبر واتساب."
   },
-  "published": "2026-08-27T22:23:11.971Z"
+  "published": "2026-08-28T15:59:24.392Z"
 }
