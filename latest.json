@@ -1,18 +1,18 @@
 {
   "desktop": {
-    "version": "1.4.2",
-    "url": "https://github.com/mustafaalfahd-max/pasta-releases/releases/download/v1.4.2/pasta.Setup.1.4.2.exe",
-    "size": 84542935,
-    "sha256": "7b3e149ebb18f36d5b9b88193eaa0a406a781af87f7b49d02a19fe50bc9bbb82",
-    "notes": "قائمة تقارير جانبية: الحركة اليومية وتقارير المبيعات والمشتريات والمصاريف والأرباح",
-    "file": "pasta.Setup.1.4.2.exe",
+    "version": "1.4.3",
+    "url": "https://github.com/mustafaalfahd-max/pasta-releases/releases/download/v1.4.3/pasta.Setup.1.4.3.exe",
+    "size": 84543565,
+    "sha256": "eb8a01fd8184915f5b9b71ba47a7eb194e53e236d85576dffd653aa6ce419f61",
+    "notes": "الفلترة بالساعة تشمل المصاريف والمشتريات",
+    "file": "pasta.Setup.1.4.3.exe",
     "asar": {
-      "version": "1.4.2",
-      "url": "https://github.com/mustafaalfahd-max/pasta-releases/releases/download/v1.4.2/pasta-app-1.4.2.asar.br",
-      "size": 2392778,
-      "sha256": "df0f5e45cc0ff612d889351bdddd2698eeeecbd941994ad68d507107ca875618",
-      "rawSize": 23175930,
-      "rawSha256": "2aca98637d0ef5d3387fb941c174bb6807b17b4db32e742906fe21478250db2d",
+      "version": "1.4.3",
+      "url": "https://github.com/mustafaalfahd-max/pasta-releases/releases/download/v1.4.3/pasta-app-1.4.3.asar.br",
+      "size": 2393639,
+      "sha256": "3b83507d49cbc1b73a0d7a241b350b304e340dc75d67082c48ac41d7c298ddbd",
+      "rawSize": 23177664,
+      "rawSha256": "f047471711f8c1c511d5b62e10d96d236f88ab3b272ad87ef030929c097ac3da",
       "electron": "33.4.11"
     }
   },
@@ -32,5 +32,5 @@
     "sha256": "54edd9b8b3378297761b963702f5cf48f050b2f922a8d148a070796d29820600",
     "notes": "إعادة اتصال تلقائية عند العودة للمطعم + شاشة تشخيص وإرسال التقرير عبر واتساب."
   },
-  "published": "2026-08-29T09:07:08.859Z"
+  "published": "2026-08-29T14:46:59.340Z"
 }
