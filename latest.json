@@ -1,18 +1,18 @@
 {
   "desktop": {
-    "version": "1.4.6",
-    "url": "https://github.com/mustafaalfahd-max/pasta-releases/releases/download/v1.4.6/pasta.Setup.1.4.6.exe",
-    "size": 84550066,
-    "sha256": "11b523a15bdd057180febd1dc9c2eca2e8b2f0c2ce4f792b3a5a8e4f1c787704",
-    "notes": "إصلاح ظهور شاشة تقارير المتابعة فارغة",
-    "file": "pasta.Setup.1.4.6.exe",
+    "version": "1.4.7",
+    "url": "https://github.com/mustafaalfahd-max/pasta-releases/releases/download/v1.4.7/pasta.Setup.1.4.7.exe",
+    "size": 84549984,
+    "sha256": "430e7535c16cb4f1b1e0541fbe9d20c8fc59b248c01b6d07a70baabea26c561c",
+    "notes": "بطاقة «بانتظار سائق» في شاشة المبيعات",
+    "file": "pasta.Setup.1.4.7.exe",
     "asar": {
-      "version": "1.4.6",
-      "url": "https://github.com/mustafaalfahd-max/pasta-releases/releases/download/v1.4.6/pasta-app-1.4.6.asar.br",
-      "size": 2398986,
-      "sha256": "55f552fe96c00efc7e58a6fcdc93e3bc1483b355aa9728126dc0275a34bebcb0",
-      "rawSize": 23210791,
-      "rawSha256": "79de8a12eeb337f8bb24d90177fbe146cd8201c3b2677e975fd9f851d516f2b7",
+      "version": "1.4.7",
+      "url": "https://github.com/mustafaalfahd-max/pasta-releases/releases/download/v1.4.7/pasta-app-1.4.7.asar.br",
+      "size": 2398810,
+      "sha256": "5cd2652e1d7864c4b58ff9ab987cdd0b31017cefe127b59f542a4699ecb4baba",
+      "rawSize": 23212173,
+      "rawSha256": "0d98401c0c19b47aa65858b274a4f3791f50f14ebb58277ce55d8d4ab145984d",
       "electron": "33.4.11"
     }
   },
@@ -32,5 +32,5 @@
     "sha256": "54edd9b8b3378297761b963702f5cf48f050b2f922a8d148a070796d29820600",
     "notes": "إعادة اتصال تلقائية عند العودة للمطعم + شاشة تشخيص وإرسال التقرير عبر واتساب."
   },
-  "published": "2026-09-03T09:32:27.937Z"
+  "published": "2026-09-03T11:29:06.998Z"
 }
