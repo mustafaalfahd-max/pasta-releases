@@ -1,18 +1,18 @@
 {
   "desktop": {
-    "version": "1.4.10",
-    "url": "https://github.com/mustafaalfahd-max/pasta-releases/releases/download/v1.4.10/pasta.Setup.1.4.10.exe",
-    "size": 84553266,
-    "sha256": "229bf2ee028e5a4b1b1cca4956ac7e37aa759cf0417d4e08f5d6b371865e4ed0",
-    "notes": "رسائل الحفظ والخطأ صارت في وسط الشاشة حيث تقع العين، ولا تمنع الضغط على ما تحتها.",
-    "file": "pasta.Setup.1.4.10.exe",
+    "version": "1.4.11",
+    "url": "https://github.com/mustafaalfahd-max/pasta-releases/releases/download/v1.4.11/pasta.Setup.1.4.11.exe",
+    "size": 84553455,
+    "sha256": "6e90b2fd4af637105758692ff357616c0e036af471565d8275b76ec0095a4930",
+    "notes": "طباعة الإيصال الناجحة لم تعد تُظهر شيئاً — الورقة الخارجة هي الإشعار. وفشل الطباعة وحده يظهر، بسببه وبزرّ يفتح الإيصال.",
+    "file": "pasta.Setup.1.4.11.exe",
     "asar": {
-      "version": "1.4.10",
-      "url": "https://github.com/mustafaalfahd-max/pasta-releases/releases/download/v1.4.10/pasta-app-1.4.10.asar.br",
-      "size": 2401914,
-      "sha256": "c8c03668dc2da80ef89bf1d966cf5f0cd174a69f33b020f6b98a458bd0925b90",
-      "rawSize": 23226919,
-      "rawSha256": "59f6ed50397f068ef485486249057405b40120545df8056c63ba3c0d18e043e0",
+      "version": "1.4.11",
+      "url": "https://github.com/mustafaalfahd-max/pasta-releases/releases/download/v1.4.11/pasta-app-1.4.11.asar.br",
+      "size": 2402500,
+      "sha256": "3d1e052462e83b0bd9769aab68b5810338a182cfa0ebcfc2bc7f346f9d25ab5e",
+      "rawSize": 23226539,
+      "rawSha256": "3d97e5be246a51ff2fc7a8321fbc8245987145722765b4476e1b713fe637eb4e",
       "electron": "33.4.11"
     }
   },
@@ -32,5 +32,5 @@
     "sha256": "54edd9b8b3378297761b963702f5cf48f050b2f922a8d148a070796d29820600",
     "notes": "إعادة اتصال تلقائية عند العودة للمطعم + شاشة تشخيص وإرسال التقرير عبر واتساب."
   },
-  "published": "2026-09-03T21:04:11.882Z"
+  "published": "2026-09-03T21:11:46.853Z"
 }
