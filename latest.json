@@ -1,18 +1,18 @@
 {
   "desktop": {
-    "version": "1.4.5",
-    "url": "https://github.com/mustafaalfahd-max/pasta-releases/releases/download/v1.4.5/pasta.Setup.1.4.5.exe",
-    "size": 84549717,
-    "sha256": "0c0a386307297a42d8fac0bcb4912b15b565cb87e73b1d2f2fab8724e1c06d22",
-    "notes": "تقارير المتابعة: سجلّ الحذف والتعديل بالوقت والمستخدم",
-    "file": "pasta.Setup.1.4.5.exe",
+    "version": "1.4.6",
+    "url": "https://github.com/mustafaalfahd-max/pasta-releases/releases/download/v1.4.6/pasta.Setup.1.4.6.exe",
+    "size": 84550066,
+    "sha256": "11b523a15bdd057180febd1dc9c2eca2e8b2f0c2ce4f792b3a5a8e4f1c787704",
+    "notes": "إصلاح ظهور شاشة تقارير المتابعة فارغة",
+    "file": "pasta.Setup.1.4.6.exe",
     "asar": {
-      "version": "1.4.5",
-      "url": "https://github.com/mustafaalfahd-max/pasta-releases/releases/download/v1.4.5/pasta-app-1.4.5.asar.br",
-      "size": 2398830,
-      "sha256": "51b8dfe726d7c4d9e90c68e8fb034ee62173f1401f9f6d60f790df81e17ef1aa",
-      "rawSize": 23210322,
-      "rawSha256": "aafcc5fe8f9f4dd461eafdad072f4b78d7df062eb0452b08a00df48e22df3976",
+      "version": "1.4.6",
+      "url": "https://github.com/mustafaalfahd-max/pasta-releases/releases/download/v1.4.6/pasta-app-1.4.6.asar.br",
+      "size": 2398986,
+      "sha256": "55f552fe96c00efc7e58a6fcdc93e3bc1483b355aa9728126dc0275a34bebcb0",
+      "rawSize": 23210791,
+      "rawSha256": "79de8a12eeb337f8bb24d90177fbe146cd8201c3b2677e975fd9f851d516f2b7",
       "electron": "33.4.11"
     }
   },
@@ -32,5 +32,5 @@
     "sha256": "54edd9b8b3378297761b963702f5cf48f050b2f922a8d148a070796d29820600",
     "notes": "إعادة اتصال تلقائية عند العودة للمطعم + شاشة تشخيص وإرسال التقرير عبر واتساب."
   },
-  "published": "2026-09-03T09:19:43.938Z"
+  "published": "2026-09-03T09:32:27.937Z"
 }
