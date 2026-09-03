@@ -1,18 +1,18 @@
 {
   "desktop": {
-    "version": "1.4.9",
-    "url": "https://github.com/mustafaalfahd-max/pasta-releases/releases/download/v1.4.9/pasta.Setup.1.4.9.exe",
-    "size": 84553474,
-    "sha256": "3f9323d1251ab9d41e113f27458473a1b9c3b5d91eb96a886deaef264350183c",
-    "notes": "رسائل التطبيق صارت داخله بدل نوافذ ويندوز الرمادية: نجاحٌ يختفي وحده، وخطأٌ يبقى بسببه، وتأكيدٌ قبل كل حذف. ولا تُفقد لوحة المفاتيح بعدها. ويظهر تنبيهٌ في الجرس عند وصول كل تحديث جديد.",
-    "file": "pasta.Setup.1.4.9.exe",
+    "version": "1.4.10",
+    "url": "https://github.com/mustafaalfahd-max/pasta-releases/releases/download/v1.4.10/pasta.Setup.1.4.10.exe",
+    "size": 84553266,
+    "sha256": "229bf2ee028e5a4b1b1cca4956ac7e37aa759cf0417d4e08f5d6b371865e4ed0",
+    "notes": "رسائل الحفظ والخطأ صارت في وسط الشاشة حيث تقع العين، ولا تمنع الضغط على ما تحتها.",
+    "file": "pasta.Setup.1.4.10.exe",
     "asar": {
-      "version": "1.4.9",
-      "url": "https://github.com/mustafaalfahd-max/pasta-releases/releases/download/v1.4.9/pasta-app-1.4.9.asar.br",
-      "size": 2402618,
-      "sha256": "95f666fd6e00669b0bedb5619c34944b0059b01c68dc6f53683879b0c56ece3b",
-      "rawSize": 23227890,
-      "rawSha256": "4cb33d44015cbe5262919db046e4d9246161b793691aaec2ba1419e4307915b5",
+      "version": "1.4.10",
+      "url": "https://github.com/mustafaalfahd-max/pasta-releases/releases/download/v1.4.10/pasta-app-1.4.10.asar.br",
+      "size": 2401914,
+      "sha256": "c8c03668dc2da80ef89bf1d966cf5f0cd174a69f33b020f6b98a458bd0925b90",
+      "rawSize": 23226919,
+      "rawSha256": "59f6ed50397f068ef485486249057405b40120545df8056c63ba3c0d18e043e0",
       "electron": "33.4.11"
     }
   },
@@ -32,5 +32,5 @@
     "sha256": "54edd9b8b3378297761b963702f5cf48f050b2f922a8d148a070796d29820600",
     "notes": "إعادة اتصال تلقائية عند العودة للمطعم + شاشة تشخيص وإرسال التقرير عبر واتساب."
   },
-  "published": "2026-09-03T20:46:09.195Z"
+  "published": "2026-09-03T21:04:11.882Z"
 }
