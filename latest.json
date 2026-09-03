@@ -1,18 +1,18 @@
 {
   "desktop": {
-    "version": "1.4.7",
-    "url": "https://github.com/mustafaalfahd-max/pasta-releases/releases/download/v1.4.7/pasta.Setup.1.4.7.exe",
-    "size": 84549984,
-    "sha256": "430e7535c16cb4f1b1e0541fbe9d20c8fc59b248c01b6d07a70baabea26c561c",
-    "notes": "بطاقة «بانتظار سائق» في شاشة المبيعات",
-    "file": "pasta.Setup.1.4.7.exe",
+    "version": "1.4.8",
+    "url": "https://github.com/mustafaalfahd-max/pasta-releases/releases/download/v1.4.8/pasta.Setup.1.4.8.exe",
+    "size": 84552452,
+    "sha256": "a3fb62dcb32987dd448703bd54b8e0738ebb41549407bc2f61f83e7486476911",
+    "notes": "صافي المبيعات: أجور التوصيل التي يُبقيها السائق لم تعد تُحتسب مبيعة (شمل التصحيح الفواتير القديمة). وتقارير المتابعة تعرض أصناف كل فاتورة محذوفة أو معدَّلة: ما كان ← ما صار.",
+    "file": "pasta.Setup.1.4.8.exe",
     "asar": {
-      "version": "1.4.7",
-      "url": "https://github.com/mustafaalfahd-max/pasta-releases/releases/download/v1.4.7/pasta-app-1.4.7.asar.br",
-      "size": 2398810,
-      "sha256": "5cd2652e1d7864c4b58ff9ab987cdd0b31017cefe127b59f542a4699ecb4baba",
-      "rawSize": 23212173,
-      "rawSha256": "0d98401c0c19b47aa65858b274a4f3791f50f14ebb58277ce55d8d4ab145984d",
+      "version": "1.4.8",
+      "url": "https://github.com/mustafaalfahd-max/pasta-releases/releases/download/v1.4.8/pasta-app-1.4.8.asar.br",
+      "size": 2400668,
+      "sha256": "883808bb327914b52d58e3a9920eb16b9f90b4ec978420b01f9192e2c4f3ce9d",
+      "rawSize": 23222318,
+      "rawSha256": "36c755521c8ba19bc49b8ecb5b6d0352316ed095fc5616c2502379a60ca112f1",
       "electron": "33.4.11"
     }
   },
@@ -32,5 +32,5 @@
     "sha256": "54edd9b8b3378297761b963702f5cf48f050b2f922a8d148a070796d29820600",
     "notes": "إعادة اتصال تلقائية عند العودة للمطعم + شاشة تشخيص وإرسال التقرير عبر واتساب."
   },
-  "published": "2026-09-03T11:29:06.998Z"
+  "published": "2026-09-03T19:35:24.819Z"
 }
