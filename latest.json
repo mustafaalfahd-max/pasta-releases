@@ -25,12 +25,12 @@
     "notes": "شاشة تشخيص: تكشف سبب توقّف بطاقة المتصل وترسل التقرير عبر واتساب."
   },
   "driver": {
-    "version": "1.4.2",
-    "url": "https://github.com/mustafaalfahd-max/pasta-releases/releases/download/v1.5.1/pasta-driver-1.4.2.apk",
-    "size": 31699068,
-    "sha256": "ea98e4f8a5021575a560875cd5b8d8066810cd704c5e119e6c7b950a7e3b9d8b",
-    "notes": "إصلاح «ابدأ الرحلة»: كانت تفتح الخرائط على موقعك بلا وجهة. صارت تفتح الطريق إلى موقع الزبون مباشرةً.",
-    "file": "pasta-driver-1.4.2.apk"
+    "version": "1.4.3",
+    "url": "https://github.com/mustafaalfahd-max/pasta-releases/releases/download/v1.5.2/pasta-driver-1.4.3.apk",
+    "size": 31699086,
+    "sha256": "eeeac1f0aecebcbdaef543790576db118e9ae84f718ac19254b20ad5d9b7e499",
+    "notes": "«ابدأ الرحلة» تسألك بأي تطبيق تفتح الطريق — ويز أو غوغل ماب أو غيرهما — في كل مرّة.",
+    "file": "pasta-driver-1.4.3.apk"
   },
-  "published": "2026-09-05T08:06:39.373Z"
+  "published": "2026-09-05T08:13:14.086Z"
 }
