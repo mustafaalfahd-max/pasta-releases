@@ -1,18 +1,18 @@
 {
   "desktop": {
-    "version": "1.5.0",
-    "url": "https://github.com/mustafaalfahd-max/pasta-releases/releases/download/v1.5.0/pasta.Setup.1.5.0.exe",
-    "size": 84557647,
-    "sha256": "3d0796f07542577008a3fa88b5759a45b74330137e62d1eb3ecb9a2ba1e3f0e5",
-    "notes": "حفظ موقع الزبون: يُلصق رابطه من واتساب في نقطة البيع أو بطاقة العميل، ويُلتقط تلقائياً من تطبيق السائق لحظة التسليم. وتصحيح «مبيعات اليوم» في الشاشة الرئيسية — كانت وحدها تعرض المبلغ قبل خصم أجور السائقين.",
-    "file": "pasta.Setup.1.5.0.exe",
+    "version": "1.5.1",
+    "url": "https://github.com/mustafaalfahd-max/pasta-releases/releases/download/v1.5.3/pasta.Setup.1.5.1.exe",
+    "size": 84559258,
+    "sha256": "0637e93b0fdfbe0ec014d3bbcfe90902de9ebda4dd9e244a42edb0021612c533",
+    "notes": "لا يقبل البرنامج اسم عميل مكرَّراً — في شاشة العملاء وفي نقطة البيع وعند إعادة التسمية، ومع تطبيع الهمزات والتاء المربوطة. وحقل العنوان صار يقترح من العناوين المسجَّلة مرتَّبةً بالتكرار.",
+    "file": "pasta.Setup.1.5.1.exe",
     "asar": {
-      "version": "1.5.0",
-      "url": "https://github.com/mustafaalfahd-max/pasta-releases/releases/download/v1.5.0/pasta-app-1.5.0.asar.br",
-      "size": 2406337,
-      "sha256": "85273545785e4218644c18160015199ce94b6573f8f7690ba3be1d3050bf77c1",
-      "rawSize": 23245223,
-      "rawSha256": "2f29e509e6938dde061e591e29d30f92da289f986ebd7ee1a3e6ac5ff45e0d54",
+      "version": "1.5.1",
+      "url": "https://github.com/mustafaalfahd-max/pasta-releases/releases/download/v1.5.3/pasta-app-1.5.1.asar.br",
+      "size": 2408331,
+      "sha256": "eaf8d7288ea83189fa4c4f44c6c481caf78b76e83cb9f00bbd7aa411ebcc5005",
+      "rawSize": 23253063,
+      "rawSha256": "c923c21c3df276c06101cf2870dcf82e2a8aa14187e4525bf92467fba3892af7",
       "electron": "33.4.11"
     }
   },
@@ -32,5 +32,5 @@
     "notes": "«ابدأ الرحلة» تسألك بأي تطبيق تفتح الطريق — ويز أو غوغل ماب أو غيرهما — في كل مرّة.",
     "file": "pasta-driver-1.4.3.apk"
   },
-  "published": "2026-09-05T08:13:14.086Z"
+  "published": "2026-09-07T20:48:08.940Z"
 }
