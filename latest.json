@@ -1,18 +1,18 @@
 {
   "desktop": {
-    "version": "1.5.1",
-    "url": "https://github.com/mustafaalfahd-max/pasta-releases/releases/download/v1.5.3/pasta.Setup.1.5.1.exe",
-    "size": 84559258,
-    "sha256": "0637e93b0fdfbe0ec014d3bbcfe90902de9ebda4dd9e244a42edb0021612c533",
-    "notes": "لا يقبل البرنامج اسم عميل مكرَّراً — في شاشة العملاء وفي نقطة البيع وعند إعادة التسمية، ومع تطبيع الهمزات والتاء المربوطة. وحقل العنوان صار يقترح من العناوين المسجَّلة مرتَّبةً بالتكرار.",
-    "file": "pasta.Setup.1.5.1.exe",
+    "version": "1.6.0",
+    "url": "https://github.com/mustafaalfahd-max/pasta-releases/releases/download/v1.6.0/pasta.Setup.1.6.0.exe",
+    "size": 84561743,
+    "sha256": "8fc9b63b4bf4b52c5a019c42951fdaed49bd3df64bfc16fd234f22293caa0404",
+    "notes": "الدفع الجزئي: حقل «المدفوع» و«المتبقّي» في نقطة البيع، والباقي يُقيَّد ديناً على الزبون. وعند تأكيد التوصيل تُسأل كم قبض السائق فعلاً — فيُسوَّى بما حمل ويُقيَّد الفرق. والسائق يأخذ أجوره أولاً من أي تحصيل ناقص.",
+    "file": "pasta.Setup.1.6.0.exe",
     "asar": {
-      "version": "1.5.1",
-      "url": "https://github.com/mustafaalfahd-max/pasta-releases/releases/download/v1.5.3/pasta-app-1.5.1.asar.br",
-      "size": 2408331,
-      "sha256": "eaf8d7288ea83189fa4c4f44c6c481caf78b76e83cb9f00bbd7aa411ebcc5005",
-      "rawSize": 23253063,
-      "rawSha256": "c923c21c3df276c06101cf2870dcf82e2a8aa14187e4525bf92467fba3892af7",
+      "version": "1.6.0",
+      "url": "https://github.com/mustafaalfahd-max/pasta-releases/releases/download/v1.6.0/pasta-app-1.6.0.asar.br",
+      "size": 2410181,
+      "sha256": "3545abf298b973d0e09fa678769c458c68189d9fdcb569f00a3d742292782922",
+      "rawSize": 23265826,
+      "rawSha256": "a6a3aed1b572c005d034f3b2f2d53d84bf817d55123d1511607b432ac535be8c",
       "electron": "33.4.11"
     }
   },
@@ -25,12 +25,12 @@
     "notes": "شاشة تشخيص: تكشف سبب توقّف بطاقة المتصل وترسل التقرير عبر واتساب."
   },
   "driver": {
-    "version": "1.4.3",
-    "url": "https://github.com/mustafaalfahd-max/pasta-releases/releases/download/v1.5.2/pasta-driver-1.4.3.apk",
-    "size": 31699086,
-    "sha256": "eeeac1f0aecebcbdaef543790576db118e9ae84f718ac19254b20ad5d9b7e499",
-    "notes": "«ابدأ الرحلة» تسألك بأي تطبيق تفتح الطريق — ويز أو غوغل ماب أو غيرهما — في كل مرّة.",
-    "file": "pasta-driver-1.4.3.apk"
+    "version": "1.5.0",
+    "url": "https://github.com/mustafaalfahd-max/pasta-releases/releases/download/v1.6.0/pasta-driver-1.5.0.apk",
+    "size": 31701410,
+    "sha256": "4924396092019c2d24669322f4c0508f985878fc34dc223ee4c6aaf1cab3f8d6",
+    "notes": "التطبيق يعرض **المطلوب تحصيله** لا إجمالي الفاتورة: زبونٌ دفع بعضها عند المطعم لا يُطالَب بها كاملة.",
+    "file": "pasta-driver-1.5.0.apk"
   },
-  "published": "2026-09-07T20:48:08.940Z"
+  "published": "2026-09-11T06:52:45.171Z"
 }
