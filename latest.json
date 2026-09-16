@@ -25,12 +25,12 @@
     "notes": "شاشة تشخيص: تكشف سبب توقّف بطاقة المتصل وترسل التقرير عبر واتساب."
   },
   "driver": {
-    "version": "1.5.0",
-    "url": "https://github.com/mustafaalfahd-max/pasta-releases/releases/download/v1.6.0/pasta-driver-1.5.0.apk",
-    "size": 31701410,
-    "sha256": "4924396092019c2d24669322f4c0508f985878fc34dc223ee4c6aaf1cab3f8d6",
-    "notes": "التطبيق يعرض **المطلوب تحصيله** لا إجمالي الفاتورة: زبونٌ دفع بعضها عند المطعم لا يُطالَب بها كاملة.",
-    "file": "pasta-driver-1.5.0.apk"
+    "version": "1.5.1",
+    "url": "https://github.com/mustafaalfahd-max/pasta-releases/releases/download/driver-1.5.1/pasta-driver-1.5.1.apk",
+    "size": 31718671,
+    "sha256": "46c1684f12b3329efc5f7eae14150d4556497296c81085664007acc3c92a9c1f",
+    "notes": "زرّ **واتساب** بجانب «ابدأ الرحلة»: ضغطة واحدة تفتح محادثة الزبون دون حفظ رقمه.",
+    "file": "pasta-driver-1.5.1.apk"
   },
-  "published": "2026-09-11T06:52:45.171Z"
+  "published": "2026-09-16T15:33:44.511Z"
 }
