@@ -1,18 +1,18 @@
 {
   "desktop": {
-    "version": "1.6.2",
-    "url": "https://github.com/mustafaalfahd-max/pasta-releases/releases/download/v1.6.2/pasta.Setup.1.6.2.exe",
-    "size": 84565935,
-    "sha256": "b2028e072e62f5a618007014d3d5df042013d0d0dac78b2de719b21c2a2105f8",
-    "notes": "تسوية ذمّة السائق صارت في شاشة السائقين وحدها: تُعرض فواتيره المفتوحة واحدةً واحدة، والمبلغ يُوزَّع عليها من الأقدم فتُغلق ما غطّاه. وزرّ التسوية في المبيعات أُزيل — كان يُسوّي ما سُوّي فيظهر المطعم مديناً لسائقه بمالٍ قبضه منه. **حدّثوا كل أجهزة الكاشير معاً.**",
-    "file": "pasta.Setup.1.6.2.exe",
+    "version": "1.6.3",
+    "url": "https://github.com/mustafaalfahd-max/pasta-releases/releases/download/v1.6.3/pasta.Setup.1.6.3.exe",
+    "size": 84568955,
+    "sha256": "5e833ba325538f1d8fec3d6d61b61b36b33750d3a50d9d65deae3ab31e452cd1",
+    "notes": "في نقطة البيع: انقر سعر الصنف لتغييره **لهذه الفاتورة وحدها** (سعر المنيو لا يتغيّر، والتغيير يُسجَّل في المتابعة)، وانقر رقم العدد لكتابته. ورسائل التأكيد والحذف أُعيد تصميمها، وسؤال الإغلاق صار داخل البرنامج بخياراته الثلاثة. والجرس صار يعرض التنبيهات في مكانها بلا مغادرة الشاشة.",
+    "file": "pasta.Setup.1.6.3.exe",
     "asar": {
-      "version": "1.6.2",
-      "url": "https://github.com/mustafaalfahd-max/pasta-releases/releases/download/v1.6.2/pasta-app-1.6.2.asar.br",
-      "size": 2414443,
-      "sha256": "d52fe67a40565df6eac77ffca7e21f436067e8e9623a7d5388fa1bd9502aa3bc",
-      "rawSize": 23285263,
-      "rawSha256": "253f45c0590da191a19fef893920b20cddc6253b925392678a8ef2e70b5ecd0e",
+      "version": "1.6.3",
+      "url": "https://github.com/mustafaalfahd-max/pasta-releases/releases/download/v1.6.3/pasta-app-1.6.3.asar.br",
+      "size": 2417229,
+      "sha256": "ea43080d64bbcf60ea4f436ba499a55777756c4ecea66d208028a7f0359fe42c",
+      "rawSize": 23301327,
+      "rawSha256": "f7d86ad41f9bd22de4c34395f305e97a9f6a062f67768dfa82d734383a2f8e48",
       "electron": "33.4.11"
     }
   },
@@ -32,5 +32,5 @@
     "notes": "زرّ **واتساب** بجانب «ابدأ الرحلة»: ضغطة واحدة تفتح محادثة الزبون دون حفظ رقمه.",
     "file": "pasta-driver-1.5.1.apk"
   },
-  "published": "2026-09-18T20:00:51.123Z"
+  "published": "2026-09-18T20:27:40.398Z"
 }
