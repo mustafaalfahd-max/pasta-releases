@@ -1,18 +1,18 @@
 {
   "desktop": {
-    "version": "1.6.1",
-    "url": "https://github.com/mustafaalfahd-max/pasta-releases/releases/download/v1.6.1/pasta.Setup.1.6.1.exe",
-    "size": 84562891,
-    "sha256": "2d435cc409c15b0c28a6d639648896cc615cc606a2bf807f15ee0f016d3deb6f",
-    "notes": "تنبيه التحديثات يصل أثناء العمل لا عند الإقلاع وحده، ويبقى أثره في جرس التنبيهات. وعند إغلاق البرنامج يسألك: نسخة احتياطية ثم إغلاق، أو إغلاق بلا نسخة، أو إلغاء.",
-    "file": "pasta.Setup.1.6.1.exe",
+    "version": "1.6.2",
+    "url": "https://github.com/mustafaalfahd-max/pasta-releases/releases/download/v1.6.2/pasta.Setup.1.6.2.exe",
+    "size": 84565935,
+    "sha256": "b2028e072e62f5a618007014d3d5df042013d0d0dac78b2de719b21c2a2105f8",
+    "notes": "تسوية ذمّة السائق صارت في شاشة السائقين وحدها: تُعرض فواتيره المفتوحة واحدةً واحدة، والمبلغ يُوزَّع عليها من الأقدم فتُغلق ما غطّاه. وزرّ التسوية في المبيعات أُزيل — كان يُسوّي ما سُوّي فيظهر المطعم مديناً لسائقه بمالٍ قبضه منه. **حدّثوا كل أجهزة الكاشير معاً.**",
+    "file": "pasta.Setup.1.6.2.exe",
     "asar": {
-      "version": "1.6.1",
-      "url": "https://github.com/mustafaalfahd-max/pasta-releases/releases/download/v1.6.1/pasta-app-1.6.1.asar.br",
-      "size": 2411685,
-      "sha256": "6a9fb52e3f2b916c46b8d49f52eac6487d2d03cffa23327b796473a9387e315c",
-      "rawSize": 23271352,
-      "rawSha256": "a9c885d703e6905e525c8d1f4ddad53eb95d16fd9dcca6447b16e997328f20ed",
+      "version": "1.6.2",
+      "url": "https://github.com/mustafaalfahd-max/pasta-releases/releases/download/v1.6.2/pasta-app-1.6.2.asar.br",
+      "size": 2414443,
+      "sha256": "d52fe67a40565df6eac77ffca7e21f436067e8e9623a7d5388fa1bd9502aa3bc",
+      "rawSize": 23285263,
+      "rawSha256": "253f45c0590da191a19fef893920b20cddc6253b925392678a8ef2e70b5ecd0e",
       "electron": "33.4.11"
     }
   },
@@ -32,5 +32,5 @@
     "notes": "زرّ **واتساب** بجانب «ابدأ الرحلة»: ضغطة واحدة تفتح محادثة الزبون دون حفظ رقمه.",
     "file": "pasta-driver-1.5.1.apk"
   },
-  "published": "2026-09-18T00:11:01.759Z"
+  "published": "2026-09-18T20:00:51.123Z"
 }
