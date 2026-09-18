@@ -1,18 +1,18 @@
 {
   "desktop": {
-    "version": "1.6.0",
-    "url": "https://github.com/mustafaalfahd-max/pasta-releases/releases/download/v1.6.0/pasta.Setup.1.6.0.exe",
-    "size": 84561743,
-    "sha256": "8fc9b63b4bf4b52c5a019c42951fdaed49bd3df64bfc16fd234f22293caa0404",
-    "notes": "الدفع الجزئي: حقل «المدفوع» و«المتبقّي» في نقطة البيع، والباقي يُقيَّد ديناً على الزبون. وعند تأكيد التوصيل تُسأل كم قبض السائق فعلاً — فيُسوَّى بما حمل ويُقيَّد الفرق. والسائق يأخذ أجوره أولاً من أي تحصيل ناقص.",
-    "file": "pasta.Setup.1.6.0.exe",
+    "version": "1.6.1",
+    "url": "https://github.com/mustafaalfahd-max/pasta-releases/releases/download/v1.6.1/pasta.Setup.1.6.1.exe",
+    "size": 84562891,
+    "sha256": "2d435cc409c15b0c28a6d639648896cc615cc606a2bf807f15ee0f016d3deb6f",
+    "notes": "تنبيه التحديثات يصل أثناء العمل لا عند الإقلاع وحده، ويبقى أثره في جرس التنبيهات. وعند إغلاق البرنامج يسألك: نسخة احتياطية ثم إغلاق، أو إغلاق بلا نسخة، أو إلغاء.",
+    "file": "pasta.Setup.1.6.1.exe",
     "asar": {
-      "version": "1.6.0",
-      "url": "https://github.com/mustafaalfahd-max/pasta-releases/releases/download/v1.6.0/pasta-app-1.6.0.asar.br",
-      "size": 2410181,
-      "sha256": "3545abf298b973d0e09fa678769c458c68189d9fdcb569f00a3d742292782922",
-      "rawSize": 23265826,
-      "rawSha256": "a6a3aed1b572c005d034f3b2f2d53d84bf817d55123d1511607b432ac535be8c",
+      "version": "1.6.1",
+      "url": "https://github.com/mustafaalfahd-max/pasta-releases/releases/download/v1.6.1/pasta-app-1.6.1.asar.br",
+      "size": 2411685,
+      "sha256": "6a9fb52e3f2b916c46b8d49f52eac6487d2d03cffa23327b796473a9387e315c",
+      "rawSize": 23271352,
+      "rawSha256": "a9c885d703e6905e525c8d1f4ddad53eb95d16fd9dcca6447b16e997328f20ed",
       "electron": "33.4.11"
     }
   },
@@ -32,5 +32,5 @@
     "notes": "زرّ **واتساب** بجانب «ابدأ الرحلة»: ضغطة واحدة تفتح محادثة الزبون دون حفظ رقمه.",
     "file": "pasta-driver-1.5.1.apk"
   },
-  "published": "2026-09-16T15:33:44.511Z"
+  "published": "2026-09-18T00:11:01.759Z"
 }
