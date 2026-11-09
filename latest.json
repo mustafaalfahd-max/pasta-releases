@@ -1,18 +1,18 @@
 {
   "desktop": {
-    "version": "1.8.1",
-    "url": "https://github.com/mustafaalfahd-max/pasta-releases/releases/download/v1.8.1/pasta.Setup.1.8.1.exe",
-    "size": 84636037,
-    "sha256": "8570bafb068d4f2cc3dbe6c4e4b2292dfb92bbc1ec05e5f81799e542d3e18098",
-    "notes": "**صفحة السائق في المتصفح:** السائق الذي عنده آيفون، أو لا يريد تثبيت التطبيق، يربط هاتفه من المتصفح: من السائقون ← ربط التطبيق امسح باركود «آيفون أو بلا تطبيق؟» بكاميرا الهاتف، ثم اكتب رمز الربط. يرى طلباته وما بحوزته، ويأخذ الطلب بكتابة رقمه في «أدخل رقم الطلب» ثم «أضِف الطلب»، ويسلّمه بـ«تم التسليم». تعمل على شبكة المطعم. **إصلاح:** باركود الربط يحمل الآن عنوان شبكة الحاسوب الصحيح.",
-    "file": "pasta.Setup.1.8.1.exe",
+    "version": "1.8.2",
+    "url": "https://github.com/mustafaalfahd-max/pasta-releases/releases/download/v1.8.2/pasta.Setup.1.8.2.exe",
+    "size": 84636039,
+    "sha256": "10617a2419dcebfd1a5df06f49004c2da585430f031559099208a8c14761e551",
+    "notes": "أسفل إيصال الزبون صار مكتوباً: باستا للمطاعم 07844114487.",
+    "file": "pasta.Setup.1.8.2.exe",
     "asar": {
-      "version": "1.8.1",
-      "url": "https://github.com/mustafaalfahd-max/pasta-releases/releases/download/v1.8.1/pasta-app-1.8.1.asar.br",
-      "size": 2484629,
-      "sha256": "f556b322698f75ebdc0f331e8c3b8732fd312bf01be67d4c4f17de08fcfe57a8",
-      "rawSize": 23632466,
-      "rawSha256": "9268d2dc2acf887189c3e050701caf7b77a92c73542ad3208b247540d4fdfb8b",
+      "version": "1.8.2",
+      "url": "https://github.com/mustafaalfahd-max/pasta-releases/releases/download/v1.8.2/pasta-app-1.8.2.asar.br",
+      "size": 2484029,
+      "sha256": "add570243f02befaf0703e09089c72f3d56491aa6e3b130f7ac8cae1409e65b3",
+      "rawSize": 23632665,
+      "rawSha256": "208c1163fa260e541bb9fbef3924c2739d8bf4de5eebd42c502db3dd67ed12c3",
       "electron": "33.4.11"
     }
   },
@@ -32,5 +32,5 @@
     "notes": "الطلبات مرتّبة **بالأيام** (اليوم، أمس…). الطلب الذي عُدِّل من المطعم يحمل علامة **«معدَّل»** مع تنبيه، والطلب **الملغي** يُحذف تلقائياً مع إشعار. المبلغ المطلوب تحصيله يطرح ما دُفع عند الكاشير. وإصلاح لتشوّه النصوص والرموز على بعض الهواتف.",
     "file": "pasta-driver-1.6.0.apk"
   },
-  "published": "2026-11-06T13:56:37.343Z"
+  "published": "2026-11-09T11:56:27.964Z"
 }
