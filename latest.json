@@ -1,18 +1,18 @@
 {
   "desktop": {
-    "version": "1.8.2",
-    "url": "https://github.com/mustafaalfahd-max/pasta-releases/releases/download/v1.8.2/pasta.Setup.1.8.2.exe",
-    "size": 84636039,
-    "sha256": "10617a2419dcebfd1a5df06f49004c2da585430f031559099208a8c14761e551",
-    "notes": "أسفل إيصال الزبون صار مكتوباً: باستا للمطاعم 07844114487.",
-    "file": "pasta.Setup.1.8.2.exe",
+    "version": "1.8.3",
+    "url": "https://github.com/mustafaalfahd-max/pasta-releases/releases/download/v1.8.3/pasta.Setup.1.8.3.exe",
+    "size": 84639968,
+    "sha256": "291bb1bf7d4e0e80bf86eb70b49cdb77a8fbf170c50ca6521dc6c554e448f35c",
+    "notes": "تحصين أمني للبرنامج. صفحة السائق في المتصفح لا تعرض بيانات زبائن الطلبات الأخرى، مع حدّ لمحاولات إدخال رقم الطلب. طباعة أسرع للإيصالات وتذاكر المطبخ.",
+    "file": "pasta.Setup.1.8.3.exe",
     "asar": {
-      "version": "1.8.2",
-      "url": "https://github.com/mustafaalfahd-max/pasta-releases/releases/download/v1.8.2/pasta-app-1.8.2.asar.br",
-      "size": 2484029,
-      "sha256": "add570243f02befaf0703e09089c72f3d56491aa6e3b130f7ac8cae1409e65b3",
-      "rawSize": 23632665,
-      "rawSha256": "208c1163fa260e541bb9fbef3924c2739d8bf4de5eebd42c502db3dd67ed12c3",
+      "version": "1.8.3",
+      "url": "https://github.com/mustafaalfahd-max/pasta-releases/releases/download/v1.8.3/pasta-app-1.8.3.asar.br",
+      "size": 2488304,
+      "sha256": "1df811d7f45ad990c5e93294462c5a355e2ebb91007f3fc27c183eaff004fe33",
+      "rawSize": 23648947,
+      "rawSha256": "b38ddc059dfd78966c43378c22be14fe901332dc24ed0cde6507c2a07d029170",
       "electron": "33.4.11"
     }
   },
@@ -32,5 +32,5 @@
     "notes": "الطلبات مرتّبة **بالأيام** (اليوم، أمس…). الطلب الذي عُدِّل من المطعم يحمل علامة **«معدَّل»** مع تنبيه، والطلب **الملغي** يُحذف تلقائياً مع إشعار. المبلغ المطلوب تحصيله يطرح ما دُفع عند الكاشير. وإصلاح لتشوّه النصوص والرموز على بعض الهواتف.",
     "file": "pasta-driver-1.6.0.apk"
   },
-  "published": "2026-11-09T11:56:27.964Z"
+  "published": "2026-11-19T12:21:00.514Z"
 }
