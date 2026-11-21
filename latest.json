@@ -1,18 +1,18 @@
 {
   "desktop": {
-    "version": "1.8.3",
-    "url": "https://github.com/mustafaalfahd-max/pasta-releases/releases/download/v1.8.3/pasta.Setup.1.8.3.exe",
-    "size": 84639968,
-    "sha256": "291bb1bf7d4e0e80bf86eb70b49cdb77a8fbf170c50ca6521dc6c554e448f35c",
-    "notes": "تحصين أمني للبرنامج. صفحة السائق في المتصفح لا تعرض بيانات زبائن الطلبات الأخرى، مع حدّ لمحاولات إدخال رقم الطلب. طباعة أسرع للإيصالات وتذاكر المطبخ.",
-    "file": "pasta.Setup.1.8.3.exe",
+    "version": "1.8.4",
+    "url": "https://github.com/mustafaalfahd-max/pasta-releases/releases/download/v1.8.4/pasta.Setup.1.8.4.exe",
+    "size": 84640027,
+    "sha256": "aaa798895bed44773e54c799a8c0afd027729208b9795085e912a81ac6891a49",
+    "notes": "إصلاح: الطباعة كانت تتوقف برسالة «التقاط بعرض 1155 والمطلوب 1152» على الشاشات المضبوطة بتكبير غير قياسي في ويندوز. ومعه ما جاء في 1.8.3: تحصين أمني وطباعة أسرع للإيصالات وتذاكر المطبخ.",
+    "file": "pasta.Setup.1.8.4.exe",
     "asar": {
-      "version": "1.8.3",
-      "url": "https://github.com/mustafaalfahd-max/pasta-releases/releases/download/v1.8.3/pasta-app-1.8.3.asar.br",
-      "size": 2488304,
-      "sha256": "1df811d7f45ad990c5e93294462c5a355e2ebb91007f3fc27c183eaff004fe33",
-      "rawSize": 23648947,
-      "rawSha256": "b38ddc059dfd78966c43378c22be14fe901332dc24ed0cde6507c2a07d029170",
+      "version": "1.8.4",
+      "url": "https://github.com/mustafaalfahd-max/pasta-releases/releases/download/v1.8.4/pasta-app-1.8.4.asar.br",
+      "size": 2489017,
+      "sha256": "a74536a2a0fd28eb4c7acb458b8368a2d36f534b8f5d637baf076fcc151322c0",
+      "rawSize": 23649440,
+      "rawSha256": "4a61880dd5e6f272e7a71df65e9eb018ea8ca85b5ea6d27dbe7c4af7c0f5e385",
       "electron": "33.4.11"
     }
   },
@@ -32,5 +32,5 @@
     "notes": "الطلبات مرتّبة **بالأيام** (اليوم، أمس…). الطلب الذي عُدِّل من المطعم يحمل علامة **«معدَّل»** مع تنبيه، والطلب **الملغي** يُحذف تلقائياً مع إشعار. المبلغ المطلوب تحصيله يطرح ما دُفع عند الكاشير. وإصلاح لتشوّه النصوص والرموز على بعض الهواتف.",
     "file": "pasta-driver-1.6.0.apk"
   },
-  "published": "2026-11-19T12:21:00.514Z"
+  "published": "2026-11-21T09:53:03.810Z"
 }
